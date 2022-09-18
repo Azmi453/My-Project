@@ -16,22 +16,22 @@
     "socials": [
       {
         "label": "INSTAGRAM",
-        "url": "https://www.instagram.com/dedeard.js/"
+        "url": "https://www.instagram.com/idzihaarone/"
       },
       {
         "label": "GITHUB",
-        "url": "https://github.com/dedeardiansya"
+        "url": "https://github.com/Azmi453"
       },
       {
         "label": "WHATSAPP",
-        "url": "https://api.whatsapp.com/send?phone=6281343912883&text=%3CChatMe%20%2F%3E"
+        "url": "https://api.whatsapp.com/send?phone=6282260688760&text=%3CChatMe%20%2F%3E"
       }
     ]
   },
   "about": {
     "label": "About.",
     "title": "ABOUT | WEB DEVELOPER",
-    "heading": "I’m Dede Ardiansya",
+    "heading": "I’m Asril Azmi",
     "body": "<p>Web developer based in Makassar, Indonesia.</p><p>Building websites is my hobby, I try to have a minimalist website design.</p>",
     "img_url": "https://i.ibb.co/3vzGh4G/dede.jpg",
     "id": {
@@ -51,21 +51,21 @@
       {
         "label": "ADDRESS STREET",
         "items": [
-          "D/23 Perumahan Puri diva Istanbul.",
-          "Gowa, Sulawesi Selatan."
+          "NO.122, Jalur 4, Batu Teritip, Sungai Sembilan.",
+          "Dumai, Riau."
         ]
       },
       {
         "label": "MOBILE PHONE",
         "items": [
-          "Call: +62 813-4391-2883",
-          "WhatsApp: +62 813-4391-2883"
+          "Call: +62 822-6068-8760",
+          "WhatsApp: +62 822-6068-8760"
         ]
       },
       {
         "label": "ADDRESS EMAIL",
         "items": [
-          "me@dedeard.my.id"
+          "asrilasmi123.my.id"
         ]
       }
     ],
