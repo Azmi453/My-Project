@@ -9,9 +9,9 @@
     "light_mode": "LIGHT MODE"
   },
   "home": {
-    "title": "DEDEARD | WEB DEVELOPER",
+    "title": "A'SHRIL | WEB DEVELOPER",
     "app_name": "DEDEARD",
-    "app_title": "Web developer based in Makassar, Indonesia.",
+    "app_title": "Web developer based in Dumai, Indonesia.",
     "bg_url": "https://i.ibb.co/c8RLgXS/main.jpg",
     "socials": [
       {
@@ -35,7 +35,7 @@
     "body": "<p>Web developer based in Makassar, Indonesia.</p><p>Building websites is my hobby, I try to have a minimalist website design.</p>",
     "img_url": "https://i.ibb.co/3vzGh4G/dede.jpg",
     "id": {
-      "heading": "Saya Dede Ardiansya",
+      "heading": "Saya Asril Azmi",
       "body": "<p>Pengembang web yang berbasis di Makassar, Indonesia.</p><p>Membangun website adalah hobi saya, saya mencoba memiliki desain website yang minimalis.</p>"
     }
   },
