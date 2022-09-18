@@ -10,7 +10,7 @@
   },
   "home": {
     "title": "A'SHRIL | WEB DEVELOPER",
-    "app_name": "DEDEARD",
+    "app_name": "Asril",
     "app_title": "Web developer based in Dumai, Indonesia.",
     "bg_url": "https://i.ibb.co/c8RLgXS/main.jpg",
     "socials": [
@@ -32,11 +32,11 @@
     "label": "About.",
     "title": "ABOUT | WEB DEVELOPER",
     "heading": "I’m Asril Azmi",
-    "body": "<p>Web developer based in Makassar, Indonesia.</p><p>Building websites is my hobby, I try to have a minimalist website design.</p>",
+    "body": "<p>Web developer based in Dumai, Indonesia.</p><p>Building websites is my hobby, I try to have a minimalist website design.</p>",
     "img_url": "https://i.ibb.co/vBHxLMw/pp1.jpg",
     "id": {
       "heading": "Saya Asril Azmi",
-      "body": "<p>Pengembang web yang berbasis di Makassar, Indonesia.</p><p>Membangun website adalah hobi saya, saya mencoba memiliki desain website yang minimalis.</p>"
+      "body": "<p>Pengembang web yang berbasis di Dumai, Indonesia.</p><p>Membangun website adalah hobi saya, saya mencoba memiliki desain website yang minimalis.</p>"
     }
   },
   "portfolio": {
